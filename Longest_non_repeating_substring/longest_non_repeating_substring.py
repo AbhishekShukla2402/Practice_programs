@@ -28,7 +28,8 @@ def lnrs(str1):
             
             sub[letter] = i
 
-            ### We set the value of sub["c"], which was previously 2, to 5
+            ### We set the value of sub["c"], which was previously 2, to 5. This is a redundant action since it does not impact the final 
+            ### value at all
 
         else:
 
