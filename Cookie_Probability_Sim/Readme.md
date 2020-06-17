@@ -1,1 +1,1 @@
-A simulation of the Cookie problem in probability. See uploaded picture in the folder for the question,
+A simulation of the Cookie problem in probability. See attached .jpg in the folder for the question,
